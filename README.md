@@ -2,9 +2,6 @@
  
  Some description
 
- -I have added logo page
- -added json file
-
  ## subheader
 
 Author
